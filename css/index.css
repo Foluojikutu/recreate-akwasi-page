@@ -1,0 +1,56 @@
+body{
+	height:100%;
+}
+
+html, body{
+	height:100%;
+}
+.hero-image {
+	background-image: url(../images/african.jpg);
+	opacity: 0.8;
+	height:600px;
+	background-position:center -200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position:relative;
+}
+.navbar-default {
+    background-color: #f8f8f8;
+    opacity: 1;
+    border-color: #e7e7e7;
+    background-attachment: fixed;
+}
+
+*{
+	margin:0;
+}
+h1, h2, h3, h4, h5, p {
+	margin-bottom: 20px;
+}
+.sect{
+	height:100%;
+	background-size:cover;
+	background-attachment: fixed;
+	
+}
+.nav{
+	position: fixed;
+	width:100%;
+
+}
+.subsection{
+	height:50%;
+	background-color:#4d4d4d;
+	padding:none;
+	margin:none;
+}
+.sectOne{
+	background-image: url(../images/tree-of-life.jpg);
+ 	background-position:center -200px;
+}
+.sectTwo{
+	background-image: url(../images/rhino.jpg);
+}
+.sectThree{
+	background-image: url(../images/photo);
+}
